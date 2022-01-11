@@ -1,0 +1,4 @@
+• What is the definition of server port?
+• What is server port range?
+• How many bits does number above represent?
+• State 10 common server ports
