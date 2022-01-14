@@ -1,4 +1,22 @@
 • What is the definition of server port?
+--> the logical endpoints of a network connection that is used to exchange information between a web   
+---> server and a web client.
 • What is server port range?
+--> Port numbers from 0 to 1023 are reserved for common TCP/IP applications and are called well-known ports
+--> Registered ports are in the range 1024 to 49151. Dynamic ports are in the range 49152 to 65535.
 • How many bits does number above represent?
+---> decimal of 1024 is represented as 10000000000 in binary 
+---> decimal of 49151 is represented as 1011111111111111 in binary
+---> decimal of 655535 is represented as 1111111111111111 in binary
 • State 10 common server ports
+HTTP – Port 80
+HTTPS – 443
+FTP – 21
+FTPS / SSH – 22
+POP3 – 110
+POP3 SSL – 995
+IMAP – 143
+IMAP SSL – 993
+SMTP – 25 (Alternate: 26)
+SMTP SSL – 587
+MySQL – 3306
