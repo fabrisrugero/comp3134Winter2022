@@ -1,0 +1,18 @@
+Last login: Thu Jan 20 09:52:05 on ttys000
+fabris@Rugeros-Mac-mini ~ % ping 147.182.158.176
+PING 147.182.158.176 (147.182.158.176): 56 data bytes
+64 bytes from 147.182.158.176: icmp_seq=0 ttl=53 time=46.341 ms
+64 bytes from 147.182.158.176: icmp_seq=1 ttl=53 time=50.888 ms
+64 bytes from 147.182.158.176: icmp_seq=2 ttl=53 time=49.095 ms
+64 bytes from 147.182.158.176: icmp_seq=3 ttl=53 time=51.024 ms
+64 bytes from 147.182.158.176: icmp_seq=4 ttl=53 time=43.918 ms
+64 bytes from 147.182.158.176: icmp_seq=5 ttl=53 time=54.609 ms
+64 bytes from 147.182.158.176: icmp_seq=6 ttl=53 time=44.309 ms
+64 bytes from 147.182.158.176: icmp_seq=7 ttl=53 time=54.515 ms
+64 bytes from 147.182.158.176: icmp_seq=8 ttl=53 time=47.363 ms
+64 bytes from 147.182.158.176: icmp_seq=9 ttl=53 time=44.826 ms
+^C
+--- 147.182.158.176 ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 43.918/48.689/54.609/3.789 ms
+fabris@Rugeros-Mac-mini ~ % 
