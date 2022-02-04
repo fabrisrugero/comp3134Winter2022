@@ -1,0 +1,49 @@
+Host: nba.com
+Country: United States
+Region: TX
+City: Houston
+Postal Code: 77072
+Latitude:	29.699699401855
+Longitude:	-95.585800170898
+Area Code:	281.xxx.xxxx
+IP Addresses: 34.213.106.51, 54.68.182.72
+
+Host: linkedin.ca
+Country: United States
+Region:	CA
+City:	Mountain View
+Postal Code:	94043
+Latitude:	37.419200897217
+Longitude:	-122.05740356445
+Area Code:	650.xxx.xxxx
+IP Address: 108.174.10.14
+
+Host: spotify.ca
+Country: Sweden
+Region:	28
+City:	Jonsered
+Postal Code:	43376
+Latitude:	57.75
+Longitude:	12.166700363159
+Area Code:	0.xxx.xxxx
+IP Address: 	193.14.90.203
+
+Host: whois.ca
+Country: United States
+Region:	NY
+City:	New York
+Postal Code:	10004
+Latitude:	40.688800811768
+Longitude:	-74.020301818848
+Area Code:	212.xxx.xxxx
+IP Address: 	65.39.199.219
+
+Host: bing.ca
+Country:	United States
+Region:	WA
+City:	Redmond
+Postal Code:	98052
+Latitude:	47.680099487305
+Longitude:	-122.12059783936
+Area Code:	425.xxx.xxxx
+IP Address: 	204.79.197.219

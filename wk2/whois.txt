@@ -1,0 +1,432 @@
+Domain Name: google.com
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T15:39:04+0000
+Creation Date: 1997-09-15T07:00:00+0000
+Registrar Registration Expiration Date: 2028-09-13T07:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Name Server: ns2.google.com
+Name Server: ns4.google.com
+Name Server: ns1.google.com
+Name Server: ns3.google.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2022-02-04T13:29:19+0000 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to email@markmonitor.com
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220
+--
+
+Domain Name: facebook.ca
+Registry Domain ID: D251303-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.hexonet.net
+Updated Date: 2022-01-26T05:01:29Z
+Creation Date: 2005-01-26T15:49:28Z
+Registry Expiry Date: 2023-01-26T05:00:00Z
+Registrar: CENTRALNIC CANADA INC
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: autoRenewPeriod https://icann.org/epp#autoRenewPeriod
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 19263713-CIRA
+Registrant Name: Facebook, Inc.
+Registrant Organization:
+Registrant Street: 1601 Willow Road
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@fb.com
+Registry Admin ID: 19263585-CIRA
+Admin Name: David Taylor
+Admin Organization: Hogan Lovells (Paris) LLP
+Admin Street: 17 avenue Matignon
+Admin City: Paris
+Admin State/Province: Paris
+Admin Postal Code: 75008
+Admin Country: FR
+Admin Phone: +33.153674747
+Admin Phone Ext:
+Admin Fax: +33.153674748
+Admin Fax Ext:
+Admin Email: email@lovellsnames.org
+Registry Tech ID: 19263427-CIRA
+Tech Name: Facebook, Inc.
+Tech Organization: Facebook, Inc.
+Tech Street: 1601 Willow Road
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: US
+Tech Phone: +1.6505434800
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: email@fb.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: a.ns.facebook.com
+Name Server: b.ns.facebook.com
+Name Server: c.ns.facebook.com
+Name Server: d.ns.facebook.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2022-02-04T15:26:17Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2022 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+Domain Name: instagram.ca
+Registry Domain ID: 15727723-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.hexonet.net
+Updated Date: 2022-01-07T04:13:33Z
+Creation Date: 2014-01-07T04:10:22Z
+Registry Expiry Date: 2023-01-07T04:10:22Z
+Registrar: CENTRALNIC CANADA INC
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: autoRenewPeriod https://icann.org/epp#autoRenewPeriod
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 67636927-CIRA
+Registrant Name: Instagram, LLC
+Registrant Organization:
+Registrant Street: 1601 Willow Road
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@lovellsnames.org
+Registry Admin ID: 19263585-CIRA
+Admin Name: David Taylor
+Admin Organization: Hogan Lovells (Paris) LLP
+Admin Street: 17 avenue Matignon
+Admin City: Paris
+Admin State/Province: Paris
+Admin Postal Code: 75008
+Admin Country: FR
+Admin Phone: +33.153674747
+Admin Phone Ext:
+Admin Fax: +33.153674748
+Admin Fax Ext:
+Admin Email: email@lovellsnames.org
+Registry Tech ID: 19263585-CIRA
+Tech Name: David Taylor
+Tech Organization: Hogan Lovells (Paris) LLP
+Tech Street: 17 avenue Matignon
+Tech City: Paris
+Tech State/Province: Paris
+Tech Postal Code: 75008
+Tech Country: FR
+Tech Phone: +33.153674747
+Tech Phone Ext:
+Tech Fax: +33.153674748
+Tech Fax Ext:
+Tech Email: email@lovellsnames.org
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: a.ns.facebook.com
+Name Server: b.ns.facebook.com
+Name Server: c.ns.facebook.com
+Name Server: d.ns.facebook.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2022-02-04T15:27:30Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2022 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+Domain Name: github.com
+Registry Domain ID: 1264983250_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2020-09-08T09:18:27+0000
+Creation Date: 2007-10-09T18:20:50+0000
+Registrar Registration Expiration Date: 2022-10-09T07:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registrant Organization: GitHub, Inc.
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+Admin Organization: GitHub, Inc.
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+Tech Organization: GitHub, Inc.
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+Name Server: dns2.p08.nsone.net
+Name Server: dns3.p08.nsone.net
+Name Server: dns4.p08.nsone.net
+Name Server: dns1.p08.nsone.net
+Name Server: ns-1283.awsdns-32.org
+Name Server: ns-421.awsdns-52.com
+Name Server: ns-520.awsdns-01.net
+Name Server: ns-1707.awsdns-21.co.uk
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2022-01-29T10:56:30+0000 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to email@markmonitor.com
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220
+--
+
+Domain Name: markmonitor.com
+Registry Domain ID: 5604337_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2021-07-20T15:15:08+0000
+Creation Date: 1999-04-23T07:00:00+0000
+Registrar Registration Expiration Date: 2023-04-22T07:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: MarkMonitor Inc.
+Registrant Street: 3540 East Longwing Lane, Suite 300
+Registrant City: Meridian
+Registrant State/Province: ID
+Registrant Postal Code: 83646
+Registrant Country: US
+Registrant Phone: +1.2083895740
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: email@markmonitor.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: MarkMonitor Inc.
+Admin Street: 3540 East Longwing Lane, Suite 300
+Admin City: Meridian
+Admin State/Province: ID
+Admin Postal Code: 83646
+Admin Country: US
+Admin Phone: +1.2083895740
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: email@markmonitor.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: MarkMonitor Inc.
+Tech Street: 3540 East Longwing Lane, Suite 300
+Tech City: Meridian
+Tech State/Province: ID
+Tech Postal Code: 83646
+Tech Country: US
+Tech Phone: +1.2083895740
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: email@markmonitor.com
+Name Server: ns6.markmonitor.com
+Name Server: ns7.markmonitor.com
+Name Server: ns3.markmonitor.com
+Name Server: ns1.markmonitor.com
+Name Server: ns4.markmonitor.com
+Name Server: ns2.markmonitor.com
+Name Server: ns5.markmonitor.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2022-02-02T03:26:11+0000 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to email@markmonitor.com
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220
+----
