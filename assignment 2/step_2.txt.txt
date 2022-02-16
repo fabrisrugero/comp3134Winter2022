@@ -1,0 +1,25 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -c 10 -i eth0 tcp 80
+tcpdump: can't parse filter expression: syntax error
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -c 10 -i eth0 tcp port 80
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+20:36:36.809642 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.57624 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.http: Flags [S], seq 3266346432, win 64240, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+20:36:36.809756 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.http > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.57624: Flags [S.], seq 4058300724, ack 3266346433, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+20:36:36.816339 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.57625 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.http: Flags [S], seq 1411435393, win 64240, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+20:36:36.816387 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.http > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.57625: Flags [S.], seq 639360484, ack 1411435394, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+20:36:36.827621 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.57624 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.http: Flags [.], ack 1, win 256, length 0
+20:36:36.841385 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.57625 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.http: Flags [.], ack 1, win 256, length 0
+20:36:37.267425 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.57624 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.http: Flags [P.], seq 1:415, ack 1, win 256, length 414: HTTP: GET /favicon.ico HTTP/1.1
+20:36:37.267574 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.http > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.57624: Flags [.], ack 415, win 501, length 0
+20:36:37.268441 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.http > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.57624: Flags [P.], seq 1:495, ack 415, win 501, length 494: HTTP: HTTP/1.1 404 Not Found
+20:36:37.345522 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.57624 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.http: Flags [.], ack 495, win 254, length 0
+10 packets captured
+10 packets received by filter
+0 packets dropped by kernel
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# 
+
+The command I used to listen for this traffic is "ttcpdump -c 10 -i eth0 tcp 80" 
+"cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com" this the source ip (My Machine) and source port is 57624.
+"lamp-ubuntu-s-1vcpu-1gb-tor1-01." Is the destination ip (my droplet) and the destination port is 80. (tcpdump uses an alias "http" for the port)
+
+We can see that the first 4 packets are used to establish a connection ( handshake )
