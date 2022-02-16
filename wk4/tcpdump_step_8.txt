@@ -1,0 +1,22 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -c 15 -n -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+16:26:02.554172 IP 147.182.158.176.22 > 99.248.128.234.56834: Flags [P.], seq 2316650846:2316650954, ack 4291081971, win 501, length 108
+16:26:02.554306 IP 147.182.158.176.22 > 99.248.128.234.56834: Flags [P.], seq 108:144, ack 1, win 501, length 36
+16:26:02.554368 IP 147.182.158.176.22 > 99.248.128.234.56834: Flags [P.], seq 144:252, ack 1, win 501, length 108
+16:26:02.554438 IP 147.182.158.176.22 > 99.248.128.234.56834: Flags [P.], seq 252:288, ack 1, win 501, length 36
+16:26:02.554662 IP 147.182.158.176.22 > 99.248.128.234.56834: Flags [P.], seq 288:460, ack 1, win 501, length 172
+16:26:02.554779 IP 147.182.158.176.22 > 99.248.128.234.56834: Flags [P.], seq 460:496, ack 1, win 501, length 36
+16:26:02.554863 IP 147.182.158.176.22 > 99.248.128.234.56834: Flags [P.], seq 496:644, ack 1, win 501, length 148
+16:26:02.554956 IP 147.182.158.176.22 > 99.248.128.234.56834: Flags [P.], seq 644:680, ack 1, win 501, length 36
+16:26:02.555051 IP 147.182.158.176.22 > 99.248.128.234.56834: Flags [P.], seq 680:828, ack 1, win 501, length 148
+16:26:02.577364 IP 99.248.128.234.56834 > 147.182.158.176.22: Flags [.], ack 828, win 8265, length 0
+16:26:02.577509 IP 147.182.158.176.22 > 99.248.128.234.56834: Flags [P.], seq 828:1968, ack 1, win 501, length 1140
+16:26:02.577791 IP 147.182.158.176.22 > 99.248.128.234.56834: Flags [P.], seq 1968:2108, ack 1, win 501, length 140
+16:26:02.577906 IP 147.182.158.176.22 > 99.248.128.234.56834: Flags [P.], seq 2108:2144, ack 1, win 501, length 36
+16:26:02.578032 IP 147.182.158.176.22 > 99.248.128.234.56834: Flags [P.], seq 2144:2300, ack 1, win 501, length 156
+16:26:02.578128 IP 147.182.158.176.22 > 99.248.128.234.56834: Flags [P.], seq 2300:2336, ack 1, win 501, length 36
+15 packets captured
+23 packets received by filter
+0 packets dropped by kernel
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#

@@ -1,0 +1,27 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -c 20 -i eth0 src 99.248.128.234
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+16:31:16.181685 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2316677790, win 8266, length 0
+16:31:16.202188 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 241, win 8265, length 0
+16:31:16.229593 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 473, win 8264, length 0
+16:31:16.282082 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 705, win 8264, length 0
+16:31:16.305828 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 937, win 8269, length 0
+16:31:16.322053 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1169, win 8268, length 0
+16:31:16.343432 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1401, win 8267, length 0
+16:31:16.360787 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1633, win 8266, length 0
+16:31:16.405949 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1865, win 8265, length 0
+16:31:16.448360 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2097, win 8265, length 0
+16:31:16.464928 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2329, win 8264, length 0
+16:31:16.484855 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2561, win 8269, length 0
+16:31:16.521462 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2793, win 8268, length 0
+16:31:16.540479 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3025, win 8267, length 0
+16:31:16.572773 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3257, win 8266, length 0
+16:31:16.594836 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3489, win 8265, length 0
+16:31:16.619193 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3721, win 8265, length 0
+16:31:16.637362 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3953, win 8264, length 0
+16:31:16.657715 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 4185, win 8269, length 0
+16:31:16.675006 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 4417, win 8268, length 0
+20 packets captured
+20 packets received by filter
+0 packets dropped by kernel
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#

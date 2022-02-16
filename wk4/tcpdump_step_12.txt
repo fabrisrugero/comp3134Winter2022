@@ -1,0 +1,32 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -c 25 -i eth0 dst 147.182.158.176
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+16:33:11.312094 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2316686022, win 8265, length 0
+16:33:11.315396 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.33622: 45112 NXDomain 0/1/1 (124)
+16:33:11.315396 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.60251: 42414 NXDomain 0/1/1 (124)
+16:33:11.315396 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.49161: 43313 NXDomain 0/1/1 (124)
+16:33:11.315983 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.33622: 45112 NXDomain 0/1/0 (113)
+16:33:11.316203 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.49161: 43313 NXDomain 0/1/0 (113)
+16:33:11.316300 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.60251: 42414 NXDomain 0/1/0 (113)
+16:33:11.318138 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.42609: 62433 1/0/1 PTR cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com. (125)
+16:33:11.318139 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.34242: 2871 1/0/1 PTR cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com. (125)
+16:33:11.319448 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.33567: 21861 NXDomain 0/1/1 (120)
+16:33:11.319652 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.47288: 1210 NXDomain 0/1/1 (120)
+16:33:11.319740 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.48132: 38124 NXDomain 0/1/1 (120)
+16:33:11.320171 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.33567: 21861 NXDomain 0/1/0 (109)
+16:33:11.320215 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.47288: 1210 NXDomain 0/1/0 (109)
+16:33:11.320374 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.48132: 38124 NXDomain 0/1/0 (109)
+16:33:11.322133 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.33740: 37718 NXDomain 0/1/1 (120)
+16:33:11.322258 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.52272: 26968 NXDomain 0/1/1 (120)
+16:33:11.322326 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.39507: 51642 NXDomain 0/1/1 (120)
+16:33:11.322710 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.33740: 37718 NXDomain 0/1/0 (109)
+16:33:11.322854 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.52272: 26968 NXDomain 0/1/0 (109)
+16:33:11.322909 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.39507: 51642 NXDomain 0/1/0 (109)
+16:33:11.338069 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2589, win 8269, length 0
+16:33:11.354463 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2821, win 8268, length 0
+16:33:11.376027 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3053, win 8267, length 0
+16:33:11.394616 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3285, win 8266, length 0
+25 packets captured
+25 packets received by filter
+0 packets dropped by kernel
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#

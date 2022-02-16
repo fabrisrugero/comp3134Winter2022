@@ -1,0 +1,19 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -c 12 -i eth0 port 22
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+16:29:19.145134 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834: Flags [P.], seq 2316670578:2316670686, ack 4291086411, win 501, length 108
+16:29:19.145265 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834: Flags [P.], seq 108:252, ack 1, win 501, length 144
+16:29:19.145363 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834: Flags [P.], seq 252:288, ack 1, win 501, length 36
+16:29:19.149981 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834: Flags [P.], seq 288:516, ack 1, win 501, length 228
+16:29:19.150101 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834: Flags [P.], seq 516:552, ack 1, win 501, length 36
+16:29:19.150244 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834: Flags [P.], seq 552:764, ack 1, win 501, length 212
+16:29:19.150355 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834: Flags [P.], seq 764:800, ack 1, win 501, length 36
+16:29:19.150473 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834: Flags [P.], seq 800:1004, ack 1, win 501, length 204
+16:29:19.150564 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834: Flags [P.], seq 1004:1040, ack 1, win 501, length 36
+16:29:19.159286 IP cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1040, win 8263, length 0
+16:29:19.159363 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834: Flags [P.], seq 1040:2512, ack 1, win 501, length 1472
+16:29:19.159571 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834: Flags [P.], seq 2512:2708, ack 1, win 501, length 196
+12 packets captured
+17 packets received by filter
+0 packets dropped by kernel
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#

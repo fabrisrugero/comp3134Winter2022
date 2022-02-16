@@ -1,0 +1,28 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -c 10 -A -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+16:17:15.206252 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834: Flags [P.], seq 2309710514:2309710622, ack 4291072035, win 501, length 108
+E...x.@.@..%....c.........b....#P.........4..Sm$...g..d...% ...J.@......D...m....q.+.....6W.w...'.....q]...d>.b.)H... .L..C..FS.Az...Az....*%.......
+16:17:15.206434 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834: Flags [P.], seq 108:144, ack 1, win 501, length 36
+E..Lx.@.@..l....c.........c....#P............=...........{"9..7p..4}....o5._
+16:17:15.206525 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834: Flags [P.], seq 144:252, ack 1, win 501, length 108
+E...x.@.@..#....c.........cB...#P..............2t...9!.b.j....{c.z...i<...J'.og.{'l.f....d...zF.._...?.......m...L.............b...iD.....@..t      .G._.
+16:17:15.206649 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe7c9a54544c2a-cm7c9a54544c28.cpe.net.cable.rogers.com.56834: Flags [P.], seq 252:288, ack 1, win 501, length 36
+E..Lx.@.@..j....c.........c....#P.......$.~].........l.I.."..T.x1...M..._...
+16:17:15.208189 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.36335 > 67.207.67.2.domain: 52102+ [1au] PTR? 234.128.248.99.in-addr.arpa. (56)
+E..T.N@.@.......C.C....5.@...............234.128.248.99.in-addr.arpa.......)........
+16:17:15.208328 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.34273 > 67.207.67.3.domain: 53803+ [1au] PTR? 234.128.248.99.in-addr.arpa. (56)
+E..T.T@.@.......C.C....5.@...+...........234.128.248.99.in-addr.arpa.......)........
+16:17:15.209178 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.42543 > 67.207.67.2.domain: 53210+ [1au] PTR? 176.158.182.147.in-addr.arpa. (57)
+E..U.O@.@.......C.C../.5.A...............176.158.182.147.in-addr.arpa.......)........
+16:17:15.209369 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.33371 > 67.207.67.3.domain: 41772+ [1au] PTR? 176.158.182.147.in-addr.arpa. (57)
+E..U.U@.@..     ....C.C..[.5.A...,...........176.158.182.147.in-addr.arpa.......)........
+16:17:15.209548 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.41164 > 67.207.67.3.domain: 28188+ [1au] PTR? 176.158.182.147.in-addr.arpa. (57)
+E..U.V@.@.......C.C....5.A..n............176.158.182.147.in-addr.arpa.......)........
+16:17:15.209876 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.33371: 41772 NXDomain 0/1/1 (124)
+E...O...<.u.C.C......5.[.....,...........176.158.182.147.in-addr.arpa..............L.7.ns1.digitalocean.com.
+hostmaster..b..>..*0.....       :.......)........
+10 packets captured
+51 packets received by filter
+14 packets dropped by kernel
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#
