@@ -1,0 +1,15 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:/# ufw limit 2222/tcp comment 'SSH port'
+Rule added
+Rule added (v6)
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:/# service sshd restart
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:/# ufw status
+Status: active
+
+To                         Action      From
+--                         ------      ----
+22/tcp                     LIMIT       Anywhere                  
+Apache Full                ALLOW       Anywhere                  
+2222/tcp                   LIMIT       Anywhere                   # SSH port
+22/tcp (v6)                LIMIT       Anywhere (v6)             
+Apache Full (v6)           ALLOW       Anywhere (v6)             
+2222/tcp (v6)              LIMIT       Anywhere (v6)              # SSH port
