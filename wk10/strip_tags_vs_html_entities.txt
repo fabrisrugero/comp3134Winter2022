@@ -1,0 +1,6 @@
+1) Stripping tags involves removes characters from the submitted query. 
+
+2) Displaying the html entity value is when we encode/replace special characters with their html 
+entity equivalent. 
+
+3) The difference is that in solution 1 the user will notice that the text he entered has been altered whilst with solution 2 the user is none the wiser and sees whatever he types into the url or form fields respectfully  

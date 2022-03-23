@@ -1,0 +1,8 @@
+1) the word I typed into the form ( search field) is included in the url after the page reloads
+
+2) the mistyped word I typed into the url was used to search the dictionary and is also inserted into the search 
+field(form)
+
+3)single quotes are replaced with "%27" the forward slash is replaced with "%2F" and the text from the form field is still part of the url but in the query string part not the path part
+
+4) whatever I pasted after 'term' appears in the form field however the forward slash is not replaced ( encoded) like in the previous scenario
