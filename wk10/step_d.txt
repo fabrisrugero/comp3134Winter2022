@@ -1,0 +1,3 @@
+1) I can see all the files in the "/var/www/html" directory 
+2) I am even notified when I enter a name of a file or directory that doesn't exist.
+3) in addition to telling when a file or directory exists or not. It prints out the full path name completely exposing the folder architecture to the whole world.

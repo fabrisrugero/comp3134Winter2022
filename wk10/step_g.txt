@@ -1,0 +1,2 @@
+1) I simply wrap the html comments in php tags and use double slash to make them PHP comments
+2) comments are ignored during compilation and are not included in the rendered/compiled php page
